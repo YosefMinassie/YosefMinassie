@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Yosef  <br>Student Developer • Robotics • Embedded Systems • Python • C++<br><br>I'm a high school student from Washington passionate about building things that move, sense, and react.  <br>I’ve been coding for years and love combining software + hardware to create real engineering projects.<br><br> 🚀 About Me<br>- 🤖 Robotics + embedded systems builder  <br>- 💻 Coding in Python, C++, Arduino, and learning more every day  <br>- 🔧 I build autonomous robots, sensor systems, and engineering tools  <br>- 📡 Interested in AI, control systems, and real‑world automation  <br>- 🎯 Goal: Becoming a founder of a AI tech computer support students in Math, Chemistry, & Physics<br><br><br>🔧 Tech Stack<br>Languages:  <br>Python • C++ • Arduino • JavaScript (learning)<br><br>Hardware & Robotics: <br>Arduino • Sensors (PIR, ultrasonic, IR) • Servos • Motor drivers • Breadboards • Embedded systems<br><br>Tools:<br>Git • VS Code • OpenCV • Linux • Serial communication<br><br>🤖 Featured Projects<br>🔹 Autonomous Car (Arduino + Ultrasonic)<br>Obstacle‑avoiding robot using sensors, motor drivers, and control logic.  <br>Uses ultrasonic distance measurement + basic navigation algorithms.<br><br>🔹 Joystick‑Controlled Robotic Arm<br>Multi‑axis servo arm controlled with a joystick module.  <br>Built for learning mechanical control + servo coordination.<br><br>🔹 AI Motion Detector (Python + OpenCV)<br>Detects movement using computer vision and basic ML logic.  <br>Great intro to computer vision + automation.<br><br>🔹 Radar Detection System (Arduino)<br>A rotating ultrasonic sensor scans the room and triggers a light alert when someone gets too close.  <br>Built using:  <br>- Ultrasonic sensor  <br>- Servo rotation  <br>- LED alert system  <br>- Distance threshold logic  <br>This project taught me sensor fusion basics and real‑time detection
 
-<!--
-**YosefMinassie/YosefMinassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yosef_minassie) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@yosefminassie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@YOCSDUDE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yosefminassie159@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=YosefMinassie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=YosefMinassie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YosefMinassie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://komarev.com/ghpvc/?username=YosefMinassie&icon=7&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
