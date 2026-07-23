@@ -1,21 +1,19 @@
-# 💫 About Me:
-👋 Hi, I'm Yosef  <br>Student Developer • Robotics • Embedded Systems • Python • C++<br><br>I'm a high school student from Washington passionate about building things that move, sense, and react.  <br>I’ve been coding for years and love combining software + hardware to create real engineering projects.<br><br> 🚀 About Me<br>- 🤖 Robotics + embedded systems builder  <br>- 💻 Coding in Python, C++, Arduino, and learning more every day  <br>- 🔧 I build autonomous robots, sensor systems, and engineering tools  <br>- 📡 Interested in AI, control systems, and real‑world automation  <br>- 🎯 Goal: Becoming a founder of a AI tech computer support students in Math, Chemistry, & Physics<br><br><br>🔧 Tech Stack<br>Languages:  <br>Python • C++ • Arduino • JavaScript (learning)<br><br>Hardware & Robotics: <br>Arduino • Sensors (PIR, ultrasonic, IR) • Servos • Motor drivers • Breadboards • Embedded systems<br><br>Tools:<br>Git • VS Code • OpenCV • Linux • Serial communication<br><br>🤖 Featured Projects<br>🔹 Autonomous Car (Arduino + Ultrasonic)<br>Obstacle‑avoiding robot using sensors, motor drivers, and control logic.  <br>Uses ultrasonic distance measurement + basic navigation algorithms.<br><br>🔹 Joystick‑Controlled Robotic Arm<br>Multi‑axis servo arm controlled with a joystick module.  <br>Built for learning mechanical control + servo coordination.<br><br>🔹 AI Motion Detector (Python + OpenCV)<br>Detects movement using computer vision and basic ML logic.  <br>Great intro to computer vision + automation.<br><br>
+Hi there!  
+I'm Yosef — a student developer who’s genuinely obsessed with computer science, AI, and building things that make life a little smarter.
+
+I’m fascinated by how technology learns, adapts, and interacts with the world. Whether it’s algorithms, robotics, or machine intelligence, I love exploring the ideas that sit right at the edge of what’s possible. My favorite part of CS is that feeling when something finally clicks — when a concept goes from confusing to “oh wait… that’s actually really cool.”
+
+I spend a lot of time experimenting, learning new tools, and trying to understand how intelligent systems work under the hood. I’m especially drawn to AI because it feels like the closest thing we have to digital creativity — machines recognizing patterns, making decisions, and sometimes surprising you.
+
+Outside of coding, I follow science pretty closely. I like seeing how breakthroughs in physics, biology, and engineering connect back to computing. When I’m not deep in a project or learning something new, I’m usually playing games, sketching ideas, or working on tech-related content.
+
+This page is basically a snapshot of my journey — where I’m learning, improving, and building toward bigger things in CS and AI.
+
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yosef_minassie) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@yosefminassie) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@YOCSDUDE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yosefminassie159@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yosef_minassie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yosefminassie159@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=YosefMinassie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=YosefMinassie&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YosefMinassie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://komarev.com/ghpvc/?username=YosefMinassie&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
